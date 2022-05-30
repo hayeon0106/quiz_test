@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+플러터 프로젝트를 위한 연습
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
